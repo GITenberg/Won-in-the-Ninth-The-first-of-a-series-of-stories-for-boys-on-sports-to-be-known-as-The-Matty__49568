@@ -1,4 +1,5 @@
 _repo: Won-in-the-Ninth-The-first-of-a-series-of-stories-for-boys-on-sports-to-be-known-as-The-Matty__49568
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
     agent_name: Mahony, Felix
     gutenberg_agent_id: '45412'
     url: http://www.gutenberg.org/2009/agents/45412
+covers:
+- cover_type: archival
+  image_path: 49568-h/images/cover.jpg
 creator:
   author:
     agent_name: Mathewson, Christy
@@ -20,6 +24,8 @@ creator:
     gutenberg_agent_id: '36313'
     url: http://www.gutenberg.org/2009/agents/36313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49568#Won-in-the-Ninth-The-first-of-a-series-of-stories-for-boys-on-sports-to-be-known-as-The-Matty_
 gutenberg_issued: '2015-08-01'
 gutenberg_type: Text
 identifiers:
